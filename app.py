@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import math
 
 # Configuración de la página responsiva
-st.set_page_config(page_title="Planificador PD", layout="centered")
+st.set_page_config(page_title="Planificador PD", page_icon="📊", layout="centered")
 
 st.title("📊 Planificador Cuantitativo de Indicadores Académicos (PD)")
 st.write("Modifica los valores para calcular las brechas y estrategias en tiempo real.")
